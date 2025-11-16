@@ -58,6 +58,14 @@ A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
+<img width="719" height="652" alt="image" src="https://github.com/user-attachments/assets/097639cb-e078-45fd-a0c0-08beb7a03e3f" />
+
+
 ---
 ## Tabulation
+
+<img width="580" height="715" alt="image" src="https://github.com/user-attachments/assets/6a15fd48-a57e-4011-8683-ca87af926d5a" />
+
 ## Result
+
+Thus mode characteristics of fiber optical fiber stuided and lower LP modules (LP11,LP21) were observed confirms.The existence of distinct guided modes this fiber.
